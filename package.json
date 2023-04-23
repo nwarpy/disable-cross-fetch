@@ -1,0 +1,21 @@
+{
+  "name": "disable-cross-fetch",
+  "version": "3.1.5",
+  "description": "Used to disable cross-fetch if it is being used in unsupported environments",
+  "homepage": "https://github.com/nwarpy/disable-cross-fetch",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nwarpy/disable-cross-fetch.git"
+  },
+  "license": "MIT",
+  "files": [
+    "dist",
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "cross-fetch"
+  ]
+}
